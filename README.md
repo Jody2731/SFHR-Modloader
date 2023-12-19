@@ -6,7 +6,8 @@ Feature(v1.3):
 - Load all the .dll files that locate in the same directory as the Modloader(.exe)
 
 How To Use:
-1. Launch the game Strike Force Heroes
-2. Run the SFHR_Modloader(.exe file)
-3. Done
+1. Download the SFHR_Modloader and Mods(.dll files) and put all of them into the same directory
+2. Launch the game Strike Force Heroes
+3. Run the SFHR_Modloader(.exe file)
+4. Done
 
